@@ -9,7 +9,7 @@
 #ifndef PhotoBrowser_PhotoBrowser_ObjCBridging_h
 #define PhotoBrowser_PhotoBrowser_ObjCBridging_h
 
-#import "FastImageCache/FICImageTable.h"
-#import "FastImageCache/FICUtilities.h"
-#import "FastImageCache/FICImports.h"
+#import "../Pods/FastImageCache/FastImageCache/FICImageTable.h"
+#import "../Pods/FastImageCache/FastImageCache/FICUtilities.h"
+#import "../Pods/FastImageCache/FastImageCache/FICImports.h"
 #endif
